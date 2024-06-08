@@ -1,0 +1,1 @@
+# qa_guru_hw10_allure_reports
